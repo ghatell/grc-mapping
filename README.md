@@ -2,6 +2,8 @@
 
 This section follows the [Incident Handling & Analysis Project](https://github.com/ghatell/incident-handling-analysis) and maps each incident scenario to relevant controls from **NIST SP 800-53** and **ISO/IEC 27001**. It demonstrates how technical incident handling aligns with governance, risk, and compliance standards — a key capability in GRC roles.
 
+![ChatGPT Image GRC Mapping](https://github.com/user-attachments/assets/68316207-96f6-4f08-91d5-f8cdeb7b9626)
+
 ---
 
 ## 📊 Incident #1 – DDoS Attack (ICMP Flood)
