@@ -70,4 +70,4 @@ This section follows the [Incident Handling & Analysis Project](https://github.c
 
 ---
 
-> 📂 This GRC mapping supports a broader understanding of how technical incidents align with compliance frameworks, making this project suitable for both **Blue Team** and **ARC/GRC** career tracks.
+> 📂 This GRC mapping supports a broader understanding of how technical incidents align with compliance frameworks
