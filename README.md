@@ -1,6 +1,6 @@
 # 📑 GRC Mapping – Incident Response & Compliance
 
-This section follow the [Incident Handling & Analysis Project](https://github.com/ghatell/incident-handling-analysis) and maps each incident scenario to relevant controls from **NIST SP 800-53** and **ISO/IEC 27001**. It demonstrates how technical incident handling aligns with governance, risk, and compliance standards — a key capability in GRC roles.
+This section follows the [Incident Handling & Analysis Project](https://github.com/ghatell/incident-handling-analysis) and maps each incident scenario to relevant controls from **NIST SP 800-53** and **ISO/IEC 27001**. It demonstrates how technical incident handling aligns with governance, risk, and compliance standards — a key capability in GRC roles.
 
 ---
 
